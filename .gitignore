@@ -1,0 +1,8 @@
+# Go binaries
+*.exe
+/conector-trollhunters
+build/
+
+# Test / coverage artifacts
+*.test
+*.out
